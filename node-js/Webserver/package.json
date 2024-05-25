@@ -1,0 +1,15 @@
+{
+  "name": "dogbreed",
+  "version": "1.0.0",
+  "description": "Ftech the dog breed from external API.",
+  "main": "Promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ankush",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^8.1.2"
+  }
+}
